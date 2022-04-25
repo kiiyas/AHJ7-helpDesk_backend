@@ -1,0 +1,32 @@
+{
+  "name": "ahj7-helpdesk_backend",
+  "version": "1.0.0",
+  "description": "Прототип API для сервиса управления заявками на помощь",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiiyas/AHJ7-helpDesk_backend.git"
+  },
+  "keywords": [
+    "backend",
+    "heroku",
+    "koa"
+  ],
+  "author": "kiiyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiiyas/AHJ7-helpDesk_backend/issues"
+  },
+  "homepage": "https://github.com/kiiyas/AHJ7-helpDesk_backend#readme",
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "forever": "^4.0.3",
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.1.1",
+    "uuid": "^8.3.2"
+  }
+}
