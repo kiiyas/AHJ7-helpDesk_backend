@@ -1,6 +1,6 @@
 ### HelpDesk
 
-#### Сервер на <a href="https:........herokuapp.com/">Heroku</a> -- <a href="https://github.com/kiiyas/AHJ7-helpDesk_frontend.git">Frontend part</a>
+#### Сервер на <a href="https://ahj7-helpdesk.herokuapp.com/">Heroku</a> -- <a href="https://github.com/kiiyas/AHJ7-helpDesk_frontend.git">Frontend part</a>
 
 
 Прототип API для сервиса управления заявками на помощь, к которому нужно будет в дальнейшем прикруить frontend.
